@@ -6,6 +6,7 @@
 <h3 align="center">Powered by Cloudflare Workers ⚡</h3>
 
 # Docs
+## 原作者在这里：https://github.com/irfaan008/simple-skill-icons
 
 ### BASE_URL = https://simple-skill-icons.shengruxiahuaya.workers.dev/svg
 
