@@ -7,7 +7,8 @@
 
 # Docs
 
-### BASE_URL = https://simpleskill.icons.workers.dev/svg
+### BASE_URL = https://simple-skill-icons.shengruxiahuaya.workers.dev/svg
+
 <!-- - [Example](#example) -->
 - [Specifying Icons](#specifying-icons)
 - [Themed Icons](#themed-icons)
